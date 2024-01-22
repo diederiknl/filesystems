@@ -49,6 +49,7 @@ ls -l
 cd
 cd $directory
 file
+pwd
 ```
 
 Je zal voor het bezoeken van de /home directory waarschijnlijk root-rechten moeten krijgen. Die krijg je (smerig) via ```sudo bash```
