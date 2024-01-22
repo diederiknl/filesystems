@@ -1,29 +1,41 @@
-#Starten met filesystems
+# Starten met filesystems
 
-    Als eerste: login op je Linux systeem
-    Clone de playground:
+Als eerste: login op je Linux systeem
+Clone de playground:
 
+```
 git clone https://github.com/diederiknl/filesystems
+```
 
-    Je krijgt een script wat je uit zal moeten voeren. Om dit mogelijk te maken voer je het volgende commando uit:
+Je krijgt een script wat je uit zal moeten voeren. Om dit mogelijk te maken voer je het volgende commando uit:
 
+```
 chmod runme.sh
+```
 
-    Voer daarna het script uit:
+Voer daarna het script uit:
 
+```
 sudo ./runme.sh
+```
 
-##Vragen
+## Vragen
 
-	Gebruik de volgende commando's:
+Gebruik de volgende commando's om de vragen op te lossen...
 
-**man**
-**ls**
-**ls -l**
-**cd**
-**cd $directory**
-**file**
+```
+man
+ls
+ls -l
+cd
+cd $directory
+file
+```
 
-	Welke nieuwe gebruikers zijn er?
-	Welke directories zijn aangemaakt voor welke users?
-	Wat voor soort bestand is dat R-ding?
+* Welke nieuwe gebruikers zijn er?
+* Welke directories zijn aangemaakt voor welke users?
+* Wat voor soort bestand is dat R-ding?
+
+# Notitie
+
+Het lukraak uitvoeren van willekeurige scripts van het internet is vragen om problemen. Doe dit echt nooit!
