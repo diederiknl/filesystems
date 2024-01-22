@@ -6,5 +6,5 @@ do
 	mkdir -p /home/$rnd/$dirretje
 done
 
-cp r.jpg /home/$rnd/$dirretje
+cp r.bestand /home/$rnd/$dirretje
 
