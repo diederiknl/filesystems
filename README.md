@@ -1,4 +1,4 @@
-Starten met filesystems
+#Starten met filesystems
 
     Als eerste: login op je Linux systeem
     Clone de playground:
@@ -12,16 +12,18 @@ chmod runme.sh
     Voer daarna het script uit:
 
 sudo ./runme.sh
-Opdracht
 
-Gebruik de volgende commando's:
+##Vragen
 
-**man
-ls
-ls -l
-cd
-cd $directory
-file
-Welke nieuwe gebruikers zijn er?
-Welke directories zijn aangemaakt voor welke users?
-Wat voor soort bestand is dat R-ding?
+	Gebruik de volgende commando's:
+
+**man**
+**ls**
+**ls -l**
+**cd**
+**cd $directory**
+**file**
+
+	Welke nieuwe gebruikers zijn er?
+	Welke directories zijn aangemaakt voor welke users?
+	Wat voor soort bestand is dat R-ding?
