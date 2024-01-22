@@ -48,6 +48,7 @@ ls
 ls -l
 cd
 cd $directory
+cd ..
 file
 pwd
 ```
