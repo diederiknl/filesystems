@@ -51,6 +51,8 @@ cd $directory
 file
 ```
 
+Je zal voor het bezoeken van de /home directory waarschijnlijk root-rechten moeten krijgen. Die krijg je (smerig) via ```sudo bash```
+
 * Welke nieuwe gebruikers zijn er?
 * Welke directories zijn aangemaakt voor welke users?
 * Wat voor soort bestand is dat R-ding?
