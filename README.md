@@ -17,11 +17,11 @@
 
 Gebruik de volgende commando's:
 
-**man**
-**ls**
-**ls -l**
-**cd**
-**cd $directory**
+**man**\
+**ls**\
+**ls -l**\
+**cd**\
+**cd $directory**\
 **file**
 
 ### Welke nieuwe gebruikers zijn er?
