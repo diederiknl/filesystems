@@ -1,21 +1,40 @@
 # Starten met filesystems
 
-Als eerste: login op je Linux systeem
-Clone de playground:
+Als eerste: **login op je Linux systeem**
 
+## Installeer git
+
+```bash
+sudo apt update
 ```
+
+```bash
+sudo apt install git
+```
+
+
+
+## Clone de playground
+
+```bash
 git clone https://github.com/diederiknl/filesystems
+```
+
+## Ga naar die directory
+
+```bash
+cd filesystems
 ```
 
 Je krijgt een script wat je uit zal moeten voeren. Om dit mogelijk te maken voer je het volgende commando uit:
 
-```
-chmod runme.sh
+```bash
+chmod +x runme.sh
 ```
 
 Voer daarna het script uit:
 
-```
+```bash
 sudo ./runme.sh
 ```
 
